@@ -17,6 +17,7 @@ python train.py --lr 0.001 --batch_size 100 --dropout_prob 0.9 --init 1 --save_d
 
 # Visualization of attention layer weights
 In figures 1,2, and 3 color intensity represents how much attention was applied on that word during generation of summary. As we can see in all fles different words gets different attention to generate summary.
+
 ![image](https://user-images.githubusercontent.com/17472092/132383746-2e8b8352-20a4-4977-8c7c-3921ee7ef33f.png)
 ![image](https://user-images.githubusercontent.com/17472092/132383766-275f3c51-e642-4562-b27c-a03540cadb52.png)
 ![image](https://user-images.githubusercontent.com/17472092/132383788-c130c66c-2827-4de8-b00d-22b0cabe386d.png)
