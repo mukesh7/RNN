@@ -1,0 +1,1 @@
+python train.py --lr 0.001 --batch_size 100 --dropout_prob 0.9 --init 1 --save_dir ""
